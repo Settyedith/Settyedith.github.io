@@ -17,8 +17,8 @@ subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 
 [sidebar.avatar]
 enabled = true
-local = true
-src = "img/avatar.png"
+local = false
+src = "https://c-ssl.duitang.com/uploads/blog/202302/08/20230208173141_e65a9.jpeg"
 
 [article]
 math = false
