@@ -1,19 +1,28 @@
 ---
 title: Hello World
-description: Welcome to Hugo Theme Stack
+description: 欢迎来到我的的秘密基地~
 slug: hello-world
 date: 2022-03-06 00:00:00+0000
 image: cover.jpg
 categories:
-    - Example Category
+    - 日常·总结
 tags:
-    - Example Tag
+    - 碎碎念
 ---
+HELLO~
 
-Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!
+一直以来都希望能有一个地方能将灵魂停泊，任它在这有限的空间里自由乱飞，以免我不小心将它限制或放逐。
 
-For more information about this theme, check the documentation: https://docs.stack.jimmycai.com/
+从前虽也喜欢空间和博客，但总是开了个头，写了几篇记录便没再继续，总是心有余而力不足的，一方面是因为容易被其他网站分走精力，另一方面是对自己的想法、写作能力都没有信心，认为自己无法通过文字为他人提供价值。但其实写作是与自己内心对话的过程，自己才是最需要去沟通的对象，我们必须要诚实地对待自己。无论自身水平高低、表达能力好坏，都应该记录自己当下的一些想法，没有必要揣测别人如何评判自己。
 
-Want a site like this? Check out [hugo-theme-stack-stater](https://github.com/CaiJimmy/hugo-theme-stack-starter)
+在这里，我将尽可能细致地记录自己的情绪与感悟，无论逻辑是否通畅，表达是否欠缺。此地将被我打造成名为自我的博物馆。我的世界，我即光芒，我是自己最忠实的读者、最虔诚的信徒，我爱我，也爱这个安全的地方。
 
-> Photo by [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) on [Unsplash](https://unsplash.com/)
+说到blog...真是时泪了。虽然我也算数字原住民，但其实最怀念的还是刚上网那会儿，大家都在用博客论坛，用文字、音乐和各种插件来装点自己的小空间，这种“我本位”的感觉真的能给人带了很大的满足。 而因为大家都有自己的空间，也给了他人充分了解自己的机会（此处拉踩朋友圈的三天可见），即便留言板上只有短短的“跑堂”“踩踩”字样，也让会让主人有被惦记的感觉。因此我总觉得那段时间，与各位网友虽相隔天涯但都真诚友善相处融洽。本以为网络的发展能够使人们的连接更为紧密，不曾想过度娱乐使我们都成了漂泊的赛博浮萍。就回到最初吧，现在流行的是plog和vlog，但于我而言，blog既是起点，也是终点。
+
+了解到用github部署的blog好像是没有留言板和友链功能的，so sad，没法和朋友们互动了。不过也无所谓吧，封闭性高也不是坏处，如若大家有交流的意愿，墙裂欢迎给我发邮件！！！
+
+邮箱：275769640@qq.com
+
+
+Once, again.
+>Hello, world ! Hello, friends !
