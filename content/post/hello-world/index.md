@@ -2,7 +2,7 @@
 title: Hello World
 description: 欢迎来到我的的秘密基地~
 slug: hello-world
-date: 2022-03-23 00:00:00+0000
+date: 2022-03-23 23:00:00+0000
 image: XHS_165532462195501026g016kbdzr1ymfq0100dhfn17gah.jpg
 categories:
     - 细砂
