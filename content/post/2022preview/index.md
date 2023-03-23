@@ -1,7 +1,7 @@
 ---
 title: 2022-不断学习！
 description: 小总结~
-slug: ~~~
+slug: hello-world
 date: 2022-03-06 00:00:00+0000
 image: cover.jpg
 categories:
