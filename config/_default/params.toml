@@ -13,12 +13,12 @@ lastUpdated = "Jan 02, 2006 15:04 MST"
 
 [sidebar]
 emoji = "🍥"
-subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+subtitle = "欢迎来到小诗的秘密花园❀"
 
 [sidebar.avatar]
 enabled = true
 local = false
-src = "https://c-ssl.duitang.com/uploads/blog/202302/08/20230208173141_e65a9.jpeg"
+src = "C:\Users\慕夫人\Desktop\blog相关\00.jpg"
 
 [article]
 math = false
