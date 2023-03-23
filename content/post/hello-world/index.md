@@ -25,4 +25,4 @@ HELLO~
 
 Once, again.
 
-> Hello, world ! Hello, friends !
+ Hello, world ! Hello, friends !
