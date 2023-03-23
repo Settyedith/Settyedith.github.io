@@ -1,6 +1,6 @@
 ---
 title: 2022-不断学习！
-description: 小总结~
+description: 一个小总结~
 slug: hello-world
 date: 2023-01-30 00:00:00+0000
 image: cover.jpg
