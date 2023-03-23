@@ -3,7 +3,7 @@ title: Hello World
 description: 欢迎来到我的的秘密基地~
 slug: hello-world
 date: 2022-03-23 00:00:00+0000
-image: cover.jpg
+image: covera2f0fd06825ad087111fa3dc6b2d3dd3285dd9ecc19f-ayjvac_fw1200.jpg
 categories:
     - 日常·总结
 tags:
